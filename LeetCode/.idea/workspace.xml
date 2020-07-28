@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode" />
+    <property name="last_opened_file_path" value="D:/LeetCode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,10 +78,8 @@
       <workItem from="1595401428539" duration="6761000" />
       <workItem from="1595476976732" duration="19430000" />
       <workItem from="1595569013031" duration="12689000" />
-      <workItem from="1595644963155" duration="14579000" />
-      <workItem from="1595728492131" duration="16320000" />
-      <workItem from="1595822053202" duration="24719000" />
-      <workItem from="1595907349501" duration="9744000" />
+      <workItem from="1595644963155" duration="1224000" />
+      <workItem from="1595667260262" duration="65000" />
     </task>
     <servers />
   </component>
@@ -103,10 +101,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="313" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595091706831" />
-    <state x="791" y="317" key="FileChooserDialogImpl" timestamp="1595667256633">
+    <state x="791" y="317" key="FileChooserDialogImpl" timestamp="1595667323317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="791" y="317" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595667256633" />
+    <state x="791" y="317" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595667323317" />
     <state width="1275" height="133" key="GridCell.Tab.0.bottom" timestamp="1595608776589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,17 +125,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="115" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595647686664" />
-    <state x="348" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1595907349541">
+    <state x="348" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1595644965234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="348" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595907349541" />
+    <state x="348" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595644965234" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1595404457499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595404457499" />
-    <state x="442" y="299" width="672" height="678" key="search.everywhere.popup" timestamp="1595745100274">
+    <state x="442" y="299" width="672" height="678" key="search.everywhere.popup" timestamp="1595576720321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="442" y="299" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595745100274" />
+    <state x="442" y="299" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595576720321" />
   </component>
 </project>
